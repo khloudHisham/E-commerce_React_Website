@@ -1,4 +1,4 @@
-# 🛒 FreshCart E-commerce Website
+# 🛒  E-commerce Website
 
 A modern, responsive e-commerce website built with React, TypeScript, and Tailwind CSS. This comprehensive shopping platform features user authentication, product browsing, cart management, advanced filtering, and a beautiful UI designed for optimal user experience.
 
